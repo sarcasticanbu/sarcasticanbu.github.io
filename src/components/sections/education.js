@@ -194,7 +194,7 @@ const Education = ({ data }) => {
   };
 
   return (
-    <StyledContainer id="jobs" ref={revealContainer}>
+    <StyledContainer id="education" ref={revealContainer}>
       <Heading>Education Detials</Heading>
       <StyledTabs>
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyPressed(e)}>

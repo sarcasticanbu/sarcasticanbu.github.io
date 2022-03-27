@@ -1,7 +1,7 @@
 ---
 date: '2020-07-15'
 title: 'HSC'
-company: 'Bhavans College'
+company: 'Bhavan's College'
 range: 'Feb 2014'
 url: ''
 ---

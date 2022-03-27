@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Suhail Momin',
   location: 'Mumbai, India',
-  email: 'sarcasticanbu@gmail.com',
+  email: 'suhailemomin118@gmail.com',
   github: 'https://github.com/sarcasticanbu',
   twitterHandle: '@sarcasticanbu',
   socialMedia: [
@@ -43,6 +43,10 @@ module.exports = {
     },
     {
       name: 'Education',
+      url: '/#education',
+    },
+    {
+      name: 'Projects',
       url: '/#projects',
     },
     {

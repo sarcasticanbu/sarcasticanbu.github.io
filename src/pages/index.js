@@ -8,7 +8,6 @@ import { Main } from '@styles';
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
 `;
-
 const IndexPage = ({ location, data }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">

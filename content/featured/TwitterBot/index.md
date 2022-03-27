@@ -1,14 +1,14 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+title: 'Perception of Working Individuals Towards Work from Home'
+cover: 'wfh.jpg'
+github: ''
+external: ''
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - WFH
+  - Research Paper
+  - Organizational Behaviour
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+Number of authors in this project were 6.
