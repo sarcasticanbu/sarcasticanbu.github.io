@@ -20,11 +20,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sarcasticanbu/',
+      url: 'https://www.linkedin.com/in/suhail-momin',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/sarcasticanbu',
+      url: 'https://www.instagram.com/sarcastic_anbu/',
     },
     {
       name: 'Twitter',
